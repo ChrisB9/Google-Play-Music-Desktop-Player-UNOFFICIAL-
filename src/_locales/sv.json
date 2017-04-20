@@ -14,6 +14,7 @@
 
   "label-about": "Om",
   "label-alarm": "Alarm",
+  "label-recents": "",
   "label-desktop-settings": "Skrivbordsinställingar",
   "label-donate": "Donera",
   "label-help": "Hjälp",
@@ -68,6 +69,7 @@
   "settings-requires-restart": "Kräver omstart av GPMDP",
 
   "settings-option-keep-sidebar-open": "",
+  "settings-option-static-album-art": "",
 
   "settings-option-invert-tray-icon": "Invertera systemikonens färg",
 

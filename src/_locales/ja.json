@@ -14,6 +14,7 @@
 
   "label-about": "GPMDPについて",
   "label-alarm": "Alarm",
+  "label-recents": "",
   "label-desktop-settings": "デスクトップ設定",
   "label-donate": "寄付",
   "label-help": "ヘルプ",
@@ -68,6 +69,7 @@
   "settings-requires-restart": "再起動が必要です",
 
   "settings-option-keep-sidebar-open": "",
+  "settings-option-static-album-art": "",
 
   "settings-option-invert-tray-icon": "トレイアイコンの色を反転させる",
 

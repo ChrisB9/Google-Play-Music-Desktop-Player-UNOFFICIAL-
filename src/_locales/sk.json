@@ -14,6 +14,7 @@
 
   "label-about": "O programe",
   "label-alarm": "Budík",
+  "label-recents": "Nedávne",
   "label-desktop-settings": "Nastavenia programu",
   "label-donate": "Podporiť",
   "label-help": "Pomocník",
@@ -68,6 +69,7 @@
   "settings-requires-restart": "Vyžaduje reštart",
 
   "settings-option-keep-sidebar-open": "Ponechať bočné menu otvorené",
+  "settings-option-static-album-art": "",
 
   "settings-option-invert-tray-icon": "Invertovať farbu ikony v paneli",
 
@@ -92,7 +94,7 @@
 
   "settings-option-hotkey-explanation": "Predvolené mediálne klávesy budú stále fungovať bez ohľadu na tieto nastavenia.  Tieto nastavenia sú ako doplnok k predvoleným.",
   "settings-option-hotkey-explanation-2": "Použite klávesu <i>\"Escape\"</i> pre obnovenie skratky.",
-  "settings-option-hotkey-not-set": "",
+  "settings-option-hotkey-not-set": "Nie je nastavené",
 
   "settings-option-min-to-tray": "Minimalizovať do panela",
 

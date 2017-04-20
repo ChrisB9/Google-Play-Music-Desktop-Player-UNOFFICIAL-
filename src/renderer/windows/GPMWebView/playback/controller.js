@@ -69,6 +69,10 @@ Emitter.on('playback:decreaseVolume', () => {
   window.GPM.volume.decreaseVolume();
 });
 
+Emitter.on('playback:seek', (event, to) => {
+  window.GPM.playback.setCurrentTime(to);
+});
+
 Emitter.on('playback:miniEnable', () => {
   window.GPM.mini.enable();
 });
@@ -78,9 +82,9 @@ Emitter.on('playback:miniDisable', () => {
 });
 
 Emitter.on('playback:infoTrack', () => {
-  const currentTrack = window.GPM.getCurrentTrack();
+  const currentTrack = window.GPM.playback.getCurrentTrack();
 
-  if (!window.GPM.isPlaying()) return;
+  if (!window.GPM.playback.isPlaying()) return;
   new Notification(currentTrack.title, { // eslint-disable-line
     body: `${currentTrack.artist} - ${currentTrack.album}`,
     icon: currentTrack.albumArt,

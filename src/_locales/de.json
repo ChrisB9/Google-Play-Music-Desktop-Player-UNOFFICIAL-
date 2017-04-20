@@ -14,6 +14,7 @@
 
   "label-about": "Über",
   "label-alarm": "Wecker",
+  "label-recents": "",
   "label-desktop-settings": "Desktop-Einstellungen",
   "label-donate": "Spenden",
   "label-help": "Hilfe",
@@ -68,6 +69,7 @@
   "settings-requires-restart": "Erfordert einen Neustart",
 
   "settings-option-keep-sidebar-open": "Seitenleiste offen halten",
+  "settings-option-static-album-art": "",
 
   "settings-option-invert-tray-icon": "Invertiere die Farbe des Kontrollleisten-Icons",
 

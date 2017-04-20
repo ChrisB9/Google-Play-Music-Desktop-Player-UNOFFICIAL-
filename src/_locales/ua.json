@@ -14,6 +14,7 @@
 
   "label-about": "Про",
   "label-alarm": "Будильник",
+  "label-recents": "",
   "label-desktop-settings": "Налаштування застосунку",
   "label-donate": "Заохотити",
   "label-help": "Довідка",
@@ -68,6 +69,7 @@
   "settings-requires-restart": "Потребує перезапуску",
 
   "settings-option-keep-sidebar-open": "",
+  "settings-option-static-album-art": "",
 
   "settings-option-invert-tray-icon": "Інвертувати іконку в системному лотку",
 
